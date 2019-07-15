@@ -18,6 +18,6 @@ public class TestServiceTest {
 	private TestService testService;
 	@Test
 	public void testFindTests() {
-		System.out.println(testService.findTests());
+		System.out.println(testService."aaaa"());
 	}
 }
